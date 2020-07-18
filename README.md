@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## COVID-19 Data Explorations
 
-You can use the [editor on GitHub](https://github.com/whitber/covid/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A couple personal attempts to analyze and visualize COVID-19 data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [County Comparison Dashboard]() - Compare case number graphs from four US counties.
+- [State Comparison Dashboard]() - Compare case number graphs from four US states.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Other COVID-19 Visualization Sources
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whitber/covid/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Johns Hopkins COVID-19 Dashbaord](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+- [Trump Wants to ‘Reopen America.’ Here’s What Happens if We Do.](https://www.nytimes.com/interactive/2020/03/25/opinion/coronavirus-trump-reopen-america.html) NY Times article from March 25, 2020. Contains an interactive model showing predicted effects of some public policy interventions.
