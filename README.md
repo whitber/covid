@@ -2,8 +2,8 @@
 
 A couple personal attempts to analyze and visualize COVID-19 data.
 
-- [County Comparison Dashboard](/county_comparison) - Compare case number graphs from four US counties.
-- [State Comparison Dashboard](/state_comparison) - Compare case number graphs from four US states.
+- [County Comparison Dashboard](whitber.github.io/covid/county_comparison) - Compare case number graphs from four US counties.
+- [State Comparison Dashboard](whitber.github.io/covid/state_comparison) - Compare case number graphs from four US states.
 
 
 ## Other COVID-19 Visualization Sources
